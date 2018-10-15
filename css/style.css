@@ -1,0 +1,35 @@
+
+/*////////////// Fonts //////////////*/
+
+*{
+font-family: 'Oswald', sans-serif;
+ color:#788;
+}
+/*////////// Global Styles //////////*/
+
+body {
+	background: #F3EBE9;
+	font-size: 100%;
+	font-family: 'Times New Roman', serif; 
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 0 45px 20px;
+}
+
+/* Write all remaining styles here */
+.gif{
+    position: relative;
+    left: 30px;
+    border: 3px solid #73AD21;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 0 45px 20px;
+}
